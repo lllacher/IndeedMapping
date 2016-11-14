@@ -1,0 +1,295 @@
+
+ID     LAT    LON     Location
+
+Alabama
+
+[BHM]  33.57   86.75  Birmingham,AL
+[MGM]  32.30   86.40  Montgomery,AL
+
+Alaska
+
+[ANC]  61.17  150.02  Anchorage,AK
+
+
+Arizona
+
+[PHX]  33.43  112.02  Phoenix,AZ
+[SDL]  33.62  111.92  Scottsdale,AZ
+[TUS]  32.12  110.93  Tucson,AZ
+
+
+Arkansas
+
+[LIT]  35.22   92.38  Little Rock,AR
+
+
+California
+
+[BFL]  35.43  119.05  Bakersfield,CA
+[FAT]  36.77  119.72  Fresno,CA
+[LAX]  33.93  118.40  Los Angeles,CA
+[SAC]  38.52  121.50  Sacramento,CA
+[SAN]  32.73  117.17  San Diego,CA
+[SFO]  37.62  122.38  San Francisco,CA
+[SJC]  37.37  121.92  San Jose,CA
+[SNA]  33.67  117.88  Santa Ana,CA
+
+Colorado
+
+[COS]  38.82  104.72  Colorado Springs,CO
+[DEN]  39.75  104.87  Denver,CO
+
+Connecticut
+
+[BDR]  41.17   73.13  Bridgeport,CT
+
+
+Delaware
+
+[ILG]  39.67   75.60  Wilmington,DE
+
+District of Columbia
+
+[DCA]  38.85   77.04  Washington,DC
+
+Florida
+
+
+[JAX]  30.50   81.70  Jacksonville,FL
+[MIA]  25.82   80.28  Miami Intl,FL
+[MCO]  28.43   81.32  Orlando,FL
+[TPA]  27.97   82.53  Tampa Intl,FL
+
+
+Georgia
+
+
+[ATL]  33.65   84.42  Atlanta,GA
+
+
+Hawaii
+
+[HNL]  21.35  157.93  Honolulu Int,HI
+
+
+Idaho
+
+[BOI]  43.57  116.22  Boise,ID
+
+
+Illinois
+
+[CHI]  41.90   87.65  Chicago,IL
+
+
+Indiana
+
+
+[FWA]  41.00   85.20  Fort Wayne,IN
+[IND]  39.73   86.27  Indianapolis,IN
+
+
+Iowa
+
+[DSM]  41.53   93.65  Des Moines,IA
+
+
+Kansas
+
+[ICT]  37.65   97.43  Wichita,KS
+
+Kentucky
+
+[LEX]  38.05   85.00  Lexington,KY
+[LOU]  38.23   85.67  Louisville,KY
+
+
+Louisiana
+
+[BTR]  30.53   91.15  Baton Rouge,LA
+[NEW]  30.03   90.03  New Orleans,LA
+
+
+Maine
+
+[PWM]  43.65   70.32  Portland,ME
+
+
+Maryland
+
+[BAL]  39.18   76.67  Baltimore,MD
+
+
+Massachusetts
+
+[BOS]  42.37   71.03  Boston,MA
+
+
+Michigan
+
+[DET]  42.42   83.02  Detroit,MI
+
+
+Minnesota
+
+[MSP]  44.88   93.22  Minneapolis,MN
+
+
+Mississippi
+
+[JAN]  32.32   90.08  Jackson,MS
+
+
+Missouri
+
+
+[MCI]  39.32   94.72  Kansas City,MO
+[STL]  38.75   90.37  St Louis,MO
+
+
+Montana
+
+[BIL]  45.80  108.53  Billings,MT
+
+
+Nebraska
+
+[LNK]  40.85   96.75  Lincoln,NE
+[OMA]  41.30   95.90  Omaha,NE
+
+
+Nevada
+
+[LAS]  36.08  115.17  Las Vegas,NV
+[RNO]  39.50  119.78  Reno,NV
+
+
+New Hampshire
+
+[MHT]  42.93   71.43  Manchester,NH
+
+
+New Mexico
+
+[ABQ]  35.05  106.60  Albuquerque,NM
+
+
+New York
+
+[BUF]  42.93   78.73  Buffalo,NY
+[NYC]  40.77   73.98  New York,NY
+[ROC]  43.12   77.67  Rochester,NY
+
+
+North Carolina
+
+[CLT]  35.22   80.93  Charlotte,NC
+[GSO]  36.08   79.95  Greensboro,NC
+[RDU]  35.87   78.78  Raleigh,NC
+
+North Dakota
+
+[FAR]  46.90   96.80  Fargo,ND
+
+
+Ohio
+
+[CVG]  39.05   84.67  Cincinnati,OH
+[CLE]  41.42   81.87  Cleveland,OH
+[CMH]  40.00   82.88  Columbus,OH
+[TOL]  41.60   83.80  Toledo,OH
+
+
+Oklahoma
+
+[OKC]  35.40   97.60  Oklahoma Cty,OK
+[TUL]  36.20   95.90  Tulsa,OK
+
+
+Oregon
+
+[PDX]  45.60  122.60  Portland,OR
+
+
+Pennsylvania
+
+[PHL]  39.88   75.25  Philadelphia,PA
+[PIT]  40.50   80.22  Pittsburgh,PA
+
+
+Rhode Island
+
+[PVD]  41.73   71.43  Providence,RI
+
+
+South Carolina
+
+[CAE]  33.95   81.12  Columbia,SC
+
+
+South Dakota
+
+[FSD]  43.58   96.73  Sioux Falls,SD
+
+
+Tennessee
+
+[MEM]  35.05   90.00  Memphis,TN
+[BNA]  36.12   86.68  Nashville,TN
+
+
+Texas
+
+[AUS]  30.30   97.70  Austin,TX           
+[CRP]  27.77   97.50  Corpus Christi,TX
+[DFW]  32.90   97.03  Dallas,TX            
+[ELP]  31.80  106.40  El Paso,TX
+[IAH]  29.97   95.35  Houston,TX
+[LRD]  27.53   99.47  Laredo,TX
+[LBB]  33.65  101.82  Lubbock,TX
+[SAT]  29.53   98.47  San Antonio,TX       
+
+
+Utah
+
+[SLC]  40.78  111.97  Salt Lake City,UT
+
+
+Vermont
+
+[BTV]  44.47   73.15  Burlington,VT
+
+
+Virginia
+
+[NGU]  36.93   76.28  Norfolk,VA
+[RIC]  37.50   77.33  Richmond,VA
+
+
+Washington
+
+[SEA]  47.45  122.30  Seattle,WA
+[GEG]  47.63  117.53  Spokane,WA
+
+
+West Virginia
+
+[CRW]  38.37   81.60  Charleston,WV
+
+
+Wisconsin
+
+[MSN]  43.13   89.33  Madison,WI
+[MKE]  42.95   87.90  Milwaukee,WI
+
+
+Wyoming
+
+[CYS]  41.15  104.82  Cheyenne,WY
+
+https://developers.google.com/maps/documentation/javascript/examples/event-simple
+
+https://developers.google.com/maps/documentation/javascript/examples/circle-simple
+
+
+[P60]  44.55  110.42  Yellowstone,WY

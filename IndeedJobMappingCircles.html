@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Indeed Job Search Mapping</title>
+    <meta name="description" content="Where are the jobs? See jobs per capita for major metro areas in each state.">
+    <meta name="keywords" content="where are jobs per capita jobgeist most popular jobs city state job title Indeed one search all jobs">
+    <link rel="stylesheet" href="main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id='query'>
+      <div class='qform1'>
+        <label class="form-label"><span class="heading3 color-text-emphasized">what</span> <span class="heading6 color-text-secondary">job title, keywords or company</span></label>
+        <input class="what" id="what" type="text" value="" name="what">
+      </div>
+      <div class='qform2'>
+        <label class="form-label"><span class="heading3 color-text-emphasized">where</span> <span class="heading6 color-text-secondary">city, state</span></label>
+        <input class="where" id="where" type="text" value="" name="where">
+      </div>
+      <div class='btn'>
+        <input type="submit" id="searchResult" value="Find Jobs" class="btn-text">
+      </div>
+    </div>
+    <div id="map"></div>
+
+    <script src="index.js"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpSqMxgeoR5QQ6kWXKOSnf6p8HCv3Kgpc&callback=initMap">
+    </script>
+
+  </body>
+</html>
